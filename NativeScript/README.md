@@ -1,0 +1,1 @@
+NativeScript App for both iOS and Android 
